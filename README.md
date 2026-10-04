@@ -1,7 +1,7 @@
 # GAME_PROGRAM-EX--3.
 # Change the third person character mesh and add animations
-## NAME : SURUTHI S
-## REG NO : 2112224220114
+## NAME : RADHIMEENA M
+## REG NO : 2112223040159
 
 ## Aim
 To replace the default third person character mesh with a custom skeletal mesh and apply new animations using an animation blueprint.
